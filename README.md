@@ -21,9 +21,9 @@ Atualmente trabalho com análise de dados, indicadores, Pricing e acompanhamento
 
 # Objetivo
 
-Busco desenvolver projetos e adquirir experiência prática na área de Dados e Tecnologia, aplicando conhecimentos de programação, SQL, análise de dados, BI e automação em problemas reais.
+Busco ampliar minha experiência prática na área de Dados e Tecnologia, aplicando conhecimentos de programação, SQL, análise de dados, BI e automação em problemas reais.
 
-# Contatos
+# Contato
 
 * LinkedIn: [João Paulo](https://www.linkedin.com/in/jo%C3%A3o-paulo-de-andrade-4b0514310/)
 * E-mail: [jpaulo.a90@gmail.com](mailto:jpaulo.a90@gmail.com)
