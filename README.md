@@ -1,21 +1,30 @@
 # Olá! Eu sou João Paulo 👋
 
-🎓 Estudante de Ciência de Dados
-📊 Focado em Dados e Tecnologia
-🚀 Atualmente estudando Python, SQL e Power BI
+🎓 Estudante de Ciência de Dados  
+📊 Assistente de Revenue Management  
+💻 Interessado em Dados e Tecnologia
 
-# Tecnologias e Ferramentas:
+Atualmente trabalho com análise de dados, indicadores, Pricing e acompanhamento de resultados. Durante minha formação, venho desenvolvendo conhecimentos em programação, bancos de dados, análise e visualização de dados.
+
+# Tecnologias e Ferramentas
 
 * Python
 * SQL
+* MySQL
+* Pandas
 * Power BI
 * Excel
+* Google Sheets
 * Git/GitHub
+* Bancos de Dados
+* Modelagem de Dados
 
-# Objetivo:
+# Objetivo
 
-Busco desenvolver projetos e adquirir experiência prática para ingressar na área de tecnologia e análise de dados.
+Busco desenvolver projetos e adquirir experiência prática na área de Dados e Tecnologia, aplicando conhecimentos de programação, SQL, análise de dados, BI e automação em problemas reais.
 
-# Contato:
+# Contatos
 
-* LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-paulo-de-andrade-4b0514310/)
+* [LinkedIn](https://www.linkedin.com/in/joao-paulo-de-andrade-4b0514310/)
+* [E-mail](mailto:jpaulo.a90@gmail.com)
+* [Telefone](tel:+5585984504884)
