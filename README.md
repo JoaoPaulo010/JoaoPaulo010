@@ -25,6 +25,6 @@ Busco desenvolver projetos e adquirir experiência prática na área de Dados e 
 
 # Contatos
 
-* [LinkedIn](https://www.linkedin.com/in/joao-paulo-de-andrade-4b0514310/)
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-de-andrade-4b0514310/)
 * [E-mail](mailto:jpaulo.a90@gmail.com)
 * [Telefone](tel:+5585984504884)
